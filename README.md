@@ -5,6 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 
 Aplikasi Web Manajemen Perpustakaan SMKN 8 Yogyakarta yang dirancang untuk mempermudah pengelolaan data buku, transaksi peminjaman & pengembalian, anggota/siswa, serta penyajian laporan perpustakaan secara efisien dan terintegrasi.
+ird https://raw.githubusercontent.com/lutpiananurmasari/perpustakaansmkn8jogja/refs/heads/main/WhatsApp%20Image%202026-09-03%20at%203.54.35%20PM.jpeg
 
 ---
 
